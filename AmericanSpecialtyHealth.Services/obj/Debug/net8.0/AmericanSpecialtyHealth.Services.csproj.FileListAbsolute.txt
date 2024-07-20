@@ -1,0 +1,17 @@
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Services\obj\Debug\net8.0\AmericanSpecialtyHealth.Services.csproj.AssemblyReference.cache
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Services\obj\Debug\net8.0\AmericanSpecialtyHealth.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Services\obj\Debug\net8.0\AmericanSpecialtyHealth.Services.AssemblyInfoInputs.cache
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Services\obj\Debug\net8.0\AmericanSpecialtyHealth.Services.AssemblyInfo.cs
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Services\obj\Debug\net8.0\AmericanSpecialtyHealth.Services.csproj.CoreCompileInputs.cache
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Services\bin\Debug\net8.0\AmericanSpecialtyHealth.Services.deps.json
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Services\bin\Debug\net8.0\AmericanSpecialtyHealth.Services.dll
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Services\bin\Debug\net8.0\AmericanSpecialtyHealth.Services.pdb
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Services\bin\Debug\net8.0\AmericanSpecialtyHealth.DTO.dll
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Services\bin\Debug\net8.0\AmericanSpecialtyHealth.Models.dll
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Services\bin\Debug\net8.0\AmericanSpecialtyHealth.DTO.pdb
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Services\bin\Debug\net8.0\AmericanSpecialtyHealth.Models.pdb
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Services\obj\Debug\net8.0\American.A4D50EB5.Up2Date
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Services\obj\Debug\net8.0\AmericanSpecialtyHealth.Services.dll
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Services\obj\Debug\net8.0\refint\AmericanSpecialtyHealth.Services.dll
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Services\obj\Debug\net8.0\AmericanSpecialtyHealth.Services.pdb
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Services\obj\Debug\net8.0\ref\AmericanSpecialtyHealth.Services.dll

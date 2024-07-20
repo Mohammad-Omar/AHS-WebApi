@@ -1,0 +1,11 @@
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Models\bin\Debug\net8.0\AmericanSpecialtyHealth.Models.deps.json
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Models\bin\Debug\net8.0\AmericanSpecialtyHealth.Models.dll
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Models\bin\Debug\net8.0\AmericanSpecialtyHealth.Models.pdb
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Models\obj\Debug\net8.0\AmericanSpecialtyHealth.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Models\obj\Debug\net8.0\AmericanSpecialtyHealth.Models.AssemblyInfoInputs.cache
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Models\obj\Debug\net8.0\AmericanSpecialtyHealth.Models.AssemblyInfo.cs
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Models\obj\Debug\net8.0\AmericanSpecialtyHealth.Models.csproj.CoreCompileInputs.cache
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Models\obj\Debug\net8.0\AmericanSpecialtyHealth.Models.dll
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Models\obj\Debug\net8.0\refint\AmericanSpecialtyHealth.Models.dll
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Models\obj\Debug\net8.0\AmericanSpecialtyHealth.Models.pdb
+C:\Users\omar_\source\repos\AmericanSpecialtyHealth\AmericanSpecialtyHealth.Models\obj\Debug\net8.0\ref\AmericanSpecialtyHealth.Models.dll

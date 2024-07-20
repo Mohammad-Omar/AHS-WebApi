@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmericanSpecialtyHealth", "AmericanSpecialtyHealth\AmericanSpecialtyHealth.csproj", "{DA3CF343-DB0E-4BFB-B3A4-F69FF09C529B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SqlScripts", "SqlScripts", "{62A1DAB1-294F-43B4-A6C6-90C1B42EEC5D}"
+	ProjectSection(SolutionItems) = preProject
+		CreateTableScript.sql = CreateTableScript.sql
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmericanSpecialtyHealth.Models", "AmericanSpecialtyHealth.Models\AmericanSpecialtyHealth.Models.csproj", "{B73A5D15-D859-41B7-8F35-5D0F7F503CB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmericanSpecialtyHealth.DTO", "AmericanSpecialtyHealth.DTO\AmericanSpecialtyHealth.DTO.csproj", "{1C5458EF-5A36-4E39-BAF6-DE6FFEF8C064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmericanSpecialtyHealth.Services", "AmericanSpecialtyHealth.Services\AmericanSpecialtyHealth.Services.csproj", "{3E671812-A535-45D2-9996-A4A9276C3172}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmericanSpecialtyHealth.Test", "AmericanSpecialtyHealth.Test\AmericanSpecialtyHealth.Test.csproj", "{3B3F6049-9CB3-42D0-943F-ACDFF6A1B809}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA3CF343-DB0E-4BFB-B3A4-F69FF09C529B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3CF343-DB0E-4BFB-B3A4-F69FF09C529B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3CF343-DB0E-4BFB-B3A4-F69FF09C529B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3CF343-DB0E-4BFB-B3A4-F69FF09C529B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B73A5D15-D859-41B7-8F35-5D0F7F503CB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B73A5D15-D859-41B7-8F35-5D0F7F503CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B73A5D15-D859-41B7-8F35-5D0F7F503CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B73A5D15-D859-41B7-8F35-5D0F7F503CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C5458EF-5A36-4E39-BAF6-DE6FFEF8C064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5458EF-5A36-4E39-BAF6-DE6FFEF8C064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5458EF-5A36-4E39-BAF6-DE6FFEF8C064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5458EF-5A36-4E39-BAF6-DE6FFEF8C064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E671812-A535-45D2-9996-A4A9276C3172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E671812-A535-45D2-9996-A4A9276C3172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E671812-A535-45D2-9996-A4A9276C3172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E671812-A535-45D2-9996-A4A9276C3172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3F6049-9CB3-42D0-943F-ACDFF6A1B809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3F6049-9CB3-42D0-943F-ACDFF6A1B809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3F6049-9CB3-42D0-943F-ACDFF6A1B809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3F6049-9CB3-42D0-943F-ACDFF6A1B809}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B87DBE4F-5AF2-4CDE-A393-95C98DF6B7B0}
+	EndGlobalSection
+EndGlobal
